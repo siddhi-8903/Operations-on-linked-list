@@ -3,6 +3,7 @@
    a.Beginning
    b.End
    c. Index position
+ "\n"
 2.Deletion in linked list at:
    a.Beginning
    b.End
